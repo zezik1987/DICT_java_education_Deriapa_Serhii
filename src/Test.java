@@ -3,5 +3,6 @@ public class Test {
         System.out.println("DICT");
         //comment on second string of the func
         System.out.println("education");
+        System.out.println("Java");
     }
 }
